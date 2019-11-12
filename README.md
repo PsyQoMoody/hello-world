@@ -2,4 +2,4 @@
 Lab 10 Repository
 
 
-Hello I'm Jered,I prefer scrambled eggs over sunny side-up.
+Hello I'm Jered, I prefer scrambled eggs over sunny side-up.
